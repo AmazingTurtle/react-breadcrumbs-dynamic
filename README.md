@@ -2,8 +2,6 @@
 
 [`🏠`](https://oklas.github.io/react-breadcrumbs-dynamic) > [`React dynamic breadcrumbs`](https://oklas.github.io/react-breadcrumbs-dynamic) > [`extremely flexible`](https://oklas.github.io/react-breadcrumbs-dynamic) > [`and`](https://oklas.github.io/react-breadcrumbs-dynamic) > [`easy to use`](https://oklas.github.io/react-breadcrumbs-dynamic)
 
-#
-
 This may be used with any version of `react-router` (2 or 3 or 4) or any
 else or without it. What you need is just to specify components for
 breadcrumbs items and its props. However props and components need to be
