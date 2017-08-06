@@ -18,6 +18,8 @@ components and design.
 [![Dependency Status](https://david-dm.org/oklas/react-breadcrumbs-dynamic.svg)](https://david-dm.org/oklas/react-breadcrumbs-dynamic)
 [![devDependency Status](https://david-dm.org/oklas/react-breadcrumbs-dynamic/dev-status.svg)](https://david-dm.org/oklas/react-breadcrumbs-dynamic#info=devDependencies)
 
+***
+
 Visit live **[DEMO](//oklas.github.io/react-breadcrumbs-dynamic)** (source code of demo in [example](example) folder)
 
 
